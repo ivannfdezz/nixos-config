@@ -15,9 +15,11 @@
     fish
     vscode
     prismlauncher
+    lunar-client
     mgba
     melonds
     supertuxkart
+    protonup-qt
     obs-studio
     vlc
     gimp
